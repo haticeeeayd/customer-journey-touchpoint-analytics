@@ -85,8 +85,3 @@ Source: [Kaggle — Airline Passenger Satisfaction](https://www.kaggle.com/datas
 3. Run all cells to reproduce the analysis
 4. Import `airline_clean.csv` into MySQL and execute `customer_journey_analysis.sql`
 
-## Author
-
-**Hatice Aydogan**
-- [LinkedIn](https://www.linkedin.com/in/haticeavdogan)
-- [GitHub](https://github.com/haticeeayd)
